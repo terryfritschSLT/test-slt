@@ -1,0 +1,6 @@
+{
+  "host_map": [
+    "$.surlatable.com => www.surlatable.com",
+    "$.surlatable.com => surlatable.com"
+  ]
+}
